@@ -1,0 +1,449 @@
+{
+  "adult": false,
+  "backdrop_path": "/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+  "belongs_to_collection": {
+    "id": 87096,
+    "name": "Avatar Collection",
+    "poster_path": "/uO2yU3QiGHvVp0L5e5IatTVRkYk.jpg",
+    "backdrop_path": "/iaEsDbQPE45hQU2EGiNjXD2KWuF.jpg"
+  },
+  "budget": 460000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.avatar.com/movies/avatar-the-way-of-water",
+  "id": 76600,
+  "imdb_id": "tt1630029",
+  "original_language": "en",
+  "original_title": "Avatar: The Way of Water",
+  "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+  "popularity": 8054.532,
+  "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "production_companies": [
+    {
+      "id": 574,
+      "logo_path": "/iB6GjNVHs5hOqcEYt2rcjBqIjki.png",
+      "name": "Lightstorm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 127928,
+      "logo_path": "/cxMxGzAgMMBhTXkcpYYCxWCOY90.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-14",
+  "revenue": 609800000,
+  "runtime": 192,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Return to Pandora.",
+  "title": "Avatar: The Way of Water",
+  "video": false,
+  "vote_average": 8.056,
+  "vote_count": 1169,
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cast on Cast - Bailey Bass and Jamie Flatters",
+        "key": "ToXAt1v0LFk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-21T17:00:18.000Z",
+        "id": "63a34f9fe24b93008c8e92e6"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Acting In The Volume Featurette",
+        "key": "uGerIQIjuqg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "published_at": "2022-12-21T12:29:31.000Z",
+        "id": "63a34635435011007c7465b3"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "#1 Movie",
+        "key": "qtVobvo7AVo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-20T18:03:42.000Z",
+        "id": "63a3469625a536007f3a9975"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cast Fan Q&A",
+        "key": "fuIHQL9GmBk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-18T18:00:11.000Z",
+        "id": "639fa2892f3b17007ca5efc5"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Casting and Characters",
+        "key": "5gXcUlS2G6Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-18T17:30:00.000Z",
+        "id": "639f7a17be6d88008caff035"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "#1 Movie in the World",
+        "key": "T7-eMHRbcpg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-18T17:00:26.000Z",
+        "id": "639fa1ed8ddc3414aa01c9e0"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Nothing Is Lost (You Give Me Strength) Official Lyric Video",
+        "key": "8QLYI_g9HVU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-18T03:20:37.000Z",
+        "id": "639fa0f5223e2000a8b4b377"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Legendary Cast Fan Q&A",
+        "key": "cTjPRrpKXk0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-17T18:00:26.000Z",
+        "id": "639fa0774f33ad00c32c84ec"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "International Tour",
+        "key": "WvE8QQbLlVA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-16T19:29:50.000Z",
+        "id": "639f9eb82f3b17007ca5eeda"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Now Playing in Theaters",
+        "key": "TpVygGgAS20",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-16T18:15:16.000Z",
+        "id": "639f9ea7da10f000a0a080c4"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "See It in 3D Tonight",
+        "key": "QLPPQ9Ny08s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-15T21:14:09.000Z",
+        "id": "639f9e944f33ad0084561a90"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cast on Cast",
+        "key": "7ri_fL38YKY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-15T15:00:04.000Z",
+        "id": "639f9deb223e20009234207f"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "This Friday",
+        "key": "wbcfC92X2Y0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-12T17:00:38.000Z",
+        "id": "6397dbd9a1a9ba00c87962c1"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "See It In 3D",
+        "key": "pZ9fvr2SdTg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-11T17:00:34.000Z",
+        "id": "6397dbd18a88b20082dc82a7"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Introduction | Learn Na’vi Sign Language",
+        "key": "WvsGuklGdzY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-08T23:11:00.000Z",
+        "id": "6392fdb66e0d7200c1985b47"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Learn Your Ways",
+        "key": "grmSIR_Z1C4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-08T01:51:40.000Z",
+        "id": "63914efa048638007de43d38"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Nothing Is Lost",
+        "key": "CuyHogczkvw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-07T17:10:00.000Z",
+        "id": "6390fb5fcede69008abcb14a"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Return to Pandora",
+        "key": "IF-L-ixROGI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-12-06T18:30:11.000Z",
+        "id": "638f9763ca0e1700ba369370"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "See It in 3D",
+        "key": "Ts_u-nZKjeI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-12-06T17:00:25.000Z",
+        "id": "63914ed118864b00850fc70d"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "IMAX Featurette",
+        "key": "DBtCotfEpks",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-11-30T21:18:29.000Z",
+        "id": "63880903a410c800c8875bf9"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Australian Avatar Week",
+        "key": "_rlZTPO-GAM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-11-25T03:20:25.000Z",
+        "id": "6382d093f04d01007f906242"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Our Fortress",
+        "key": "XflcljqFRKU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-11-24T17:00:31.000Z",
+        "id": "63800d7d2a09bc0098c9b8d9"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "New Trailer",
+        "key": "o5F8MOz_IDw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2022-11-22T02:53:38.000Z",
+        "id": "637c3a8971083a00e30de792"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tickets on Sale",
+        "key": "rfQxu6srHYw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-11-21T21:00:33.000Z",
+        "id": "637c364fbb260200e3da40ed"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tune In",
+        "key": "SMRHGu3F69w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-11-21T17:00:18.000Z",
+        "id": "637c36009a358d0076ef7c98"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Keep Our Oceans Amazing",
+        "key": "F6-gmubgjzQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-11-17T19:00:06.000Z",
+        "id": "637c3680e38bd800777885a0"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Niagara Falls",
+        "key": "gyhWptAufgA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-11-03T03:56:17.000Z",
+        "id": "63643b811089ba007d61ff5c"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer Online Now",
+        "key": "GmBtaV4ugbc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2022-11-02T12:56:42.000Z",
+        "id": "636438461089ba007ae0fa3b"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "d9MyW72ELq0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2022-11-02T12:19:35.000Z",
+        "id": "636268d60c3ec80090b6159b"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Keep Our Oceans Amazing",
+        "key": "XiSW80Z2PBU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "published_at": "2022-10-21T21:06:47.000Z",
+        "id": "63537e5756b9f7007b137f1c"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Teaser Trailer",
+        "key": "a8Gx8wiNbs8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2022-05-09T14:00:00.000Z",
+        "id": "627921d29979d234ffdf01ef"
+      }
+    ]
+  }
+}
