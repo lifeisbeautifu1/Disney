@@ -22,7 +22,7 @@ const Thumbnail: React.FC<Props> = ({ result, movie }) => {
         src={`${BASE_URL}${result.backdroup_path || result.poster_path}`}
         width={330}
         height={210}
-        objectFit="cover"
+        objectFit="contain"
         className="rounded-lg"
       />
     </div>
