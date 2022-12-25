@@ -23,7 +23,7 @@ const Thumbnail: React.FC<Props> = ({ result, movie }) => {
         width={330}
         height={210}
         objectFit="cover"
-        objectPosition="center"
+        objectPosition="top"
         className="rounded-lg"
       />
     </div>
